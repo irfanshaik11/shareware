@@ -4,11 +4,11 @@
   },
   "DATA_PROVIDERS": {
     "development": "http://localhost:8545",
-    "goerli": "https://infura.io/goerli",
+    "goerli": "https://goerli.infura.io/v3/d2a6ae38fc034c729437c4e438577cf8",
     "rinkeby": "https://infura.io/rinkeby",
     "kovan": "https://infura.io/kovan",
     "ropsten": "https://infura.io/ropsten",
-    "mainnet": "https://infura.io/mainnet"
+    "mainnet": "https://mainnet.infura.io/v3/d2a6ae38fc034c729437c4e438577cf8"
   },
   "NETWORK_MAP": {
     "mainnet": 1,
@@ -18,6 +18,6 @@
     "kovan": 42,
     "development": 999
   },
-  "DEFAULT_NETWORK": "mainnet",
-  "BLOCKNATIVE_API_KEY": null
+  "DEFAULT_NETWORK": "goerli",
+  "BLOCKNATIVE_API_KEY": "b44532e0-6c0d-434f-984c-57220b7c5b3e"
 }
